@@ -33,3 +33,6 @@ Worksheet: Life Expectancy Trend (Filtered Line Chart)
 Worksheet: Population by Gender (Interactive Pie Chart)
 Worksheet: Health Metric Comparison (BMI vs. Life Expectancy Scatter Plot)
 Final Dashboard: "Global Health & Spotify Insights" – An interactive multi-page dashboard.
+
+<img width="860" height="614" alt="image" src="https://github.com/user-attachments/assets/dd3a7159-11c0-4a08-9609-9a85ee0cbca5" />
+
